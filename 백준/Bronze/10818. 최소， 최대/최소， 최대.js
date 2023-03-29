@@ -40,14 +40,28 @@ const input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
 /**
  * Case 4
+ * Memory: 88268kb
+ * Time: 488ms
+ */
+// const n = Number(input[0]);
+// const arr = input[1].split(' ').map(Number);
+//
+// let min = 1000001; // 일단 큰 수로 초기화
+// let max = -1000001; // 일단 작은 수로 초기화
+// for (let i = 0; i < n; i++) {
+//     if (min > arr[i]) min= arr[i];
+//     if (max < arr[i]) max = arr[i];
+// }
+// console.log(min, max);
+
+/**
+ * Case 5
+ * Memory: 86952kb
+ * Time: 528ms
  */
 const n = Number(input[0]);
 const arr = input[1].split(' ').map(Number);
 
-let min = 1000001; // 일단 큰 수로 초기화
-let max = -1000001; // 일단 작은 수로 초기화
-for (let i = 0; i < n; i++) {
-    if (min > arr[i]) min= arr[i];
-    if (max < arr[i]) max = arr[i];
-}
-console.log(min, max);
+let min = arr.reduce((a, b) => Math.min(a, b));
+let max = arr.reduce((a, b) => Math.max(a, b));
+console.log(min, max)
