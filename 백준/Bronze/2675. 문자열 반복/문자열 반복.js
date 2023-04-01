@@ -20,6 +20,7 @@ let input = fs.readFileSync(filePath).toString().split("\n");
 //     }
 // }
 
+
 /**
  * Case 2
  * Memory:
@@ -27,10 +28,11 @@ let input = fs.readFileSync(filePath).toString().split("\n");
  */
 const n = Number(input[0]);
 for (let i = 1; i <= n; i++) {
-    let [r, s] = input[i].split(' ');
-    let result = '';
-    for (let j = 0; j < s.length; j++) {
-        result += s.charAt(j).repeat(r);
-    }
-    console.log(result)
+
+let [r, s] = input[i].split(' ');
+let result = '';
+for (let j = 0; j < s.length; j++) {
+    result += s.charAt(j).repeat(r);
+}
+console.log(result)
 }
