@@ -1,10 +1,7 @@
 function solution(n) {
-    let result = [n];
+    if (n === 1) return [1];
     
-    while (n !== 1) {
-        n = n % 2 === 0 ? n / 2 : 3 * n + 1;
-        result.push(n);
-    }
+    const next = n % 2 === 0 ? n / 2 : 3 * n + 1;
     
-    return result;
+    return [n, ...solution(next)];
 }
