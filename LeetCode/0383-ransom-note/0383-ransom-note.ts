@@ -1,9 +1,16 @@
 function canConstruct(ransomNote: string, magazine: string): boolean {
-    for (let i = 0; i < magazine.length; i ++) {
-        if (ransomNote.includes(magazine[i])) {
-            ransomNote = ransomNote.replace(magazine[i], '');
-        }
+    const charCount: Record<string, number> = {};
+    
+    for (const char of magazine) {
+        charCount[char] = (charCount[char] || 0) + 1;
     }
-
-    return !ransomNote.length;
-};
+    
+    for (const char of ransomNote) {
+        if (!charCount[char] || charCount[char] === 0) {
+            return false;
+        }
+        charCount[char]--;
+    }
+    
+    return true;
+}
