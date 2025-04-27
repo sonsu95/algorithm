@@ -6,7 +6,7 @@ function fizzBuzz(n: number): string[] {
         if (isDiv3 && isDiv5) result.push('FizzBuzz');
         else if (isDiv3) result.push('Fizz');
         else if (isDiv5) result.push('Buzz');
-        else result.push(String(i));
+        else result.push(i.toString());
     }
     return result;
 };
