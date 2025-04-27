@@ -1,3 +1,3 @@
 function solution(num_list, n) {
-    return num_list.join('').slice(0, n).split('').map(item => Number(item));
+    return num_list.slice(0, n);
 }
