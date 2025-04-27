@@ -7,6 +7,7 @@ A collection of LeetCode problems solved in this folder.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/sonsu95/algorithm/tree/master/LeetCode/2383-add-two-integers) |
 ## Array
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
