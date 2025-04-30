@@ -30,6 +30,7 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 ## Simulation
@@ -58,4 +59,8 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
