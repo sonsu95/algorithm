@@ -13,6 +13,7 @@ A collection of LeetCode problems solved in this folder.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0001-two-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -47,6 +48,7 @@ A collection of LeetCode problems solved in this folder.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0001-two-sum) |
 | [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
 ## Counting
 |  |
