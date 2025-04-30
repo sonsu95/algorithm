@@ -9,7 +9,8 @@ const roman = {
 };
 
 function romanToInt(s: string): number {
-  const integers = s.split('').map(c => roman[c]);
+  const nums = s.split('').map(char => roman[char]);
   
-  return integers.reduce((acc, x, i) => x < integers[i + 1] ? acc - x : acc + x, 0);
+  return nums.reduce((total, cur, idx) => 
+    cur < nums[idx + 1] ? total - cur : total + cur, 0);
 };
