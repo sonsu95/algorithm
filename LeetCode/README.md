@@ -7,6 +7,7 @@ A collection of LeetCode problems solved in this folder.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/sonsu95/algorithm/tree/master/LeetCode/2383-add-two-integers) |
