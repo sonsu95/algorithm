@@ -7,7 +7,6 @@ function maximumWealth(accounts: number[][]): number {
             innerSum += accounts[i][j];
         }
         result.push(innerSum);
-        console.log(result);
     }
 
     return Math.max(...result);
