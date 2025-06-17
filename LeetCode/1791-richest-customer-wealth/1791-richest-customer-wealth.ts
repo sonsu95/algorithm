@@ -1,13 +1,13 @@
 function maximumWealth(accounts: number[][]): number {
-    const result = [];
+    let result = 0;
 
     for (let i = 0; i < accounts.length; i++) {
         let innerSum = 0;
         for (let j = 0; j < accounts[i].length; j++) {
             innerSum += accounts[i][j];
         }
-        result.push(innerSum);
+        result = result < innerSum ? innerSum : result;
     }
 
-    return Math.max(...result);
+    return result;
 };
