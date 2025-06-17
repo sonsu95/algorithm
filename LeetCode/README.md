@@ -21,6 +21,7 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
