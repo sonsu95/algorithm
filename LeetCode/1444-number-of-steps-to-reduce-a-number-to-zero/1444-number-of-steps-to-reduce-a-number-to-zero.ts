@@ -1,15 +1,3 @@
-function numberOfSteps(num: number): number {
-    let cnt = 0;
-    let calNum = num;
-
-    while(calNum !== 0) {
-        if (calNum % 2 === 0) {
-            calNum /= 2;
-        } else {
-            calNum -= 1;
-        }
-        cnt++;
-    }
-    
-    return cnt;
+const numberOfSteps = (num: number, steps: number = 0): number => {
+  return num === 0 ? steps : numberOfSteps(num % 2 === 1 ? num - 1 : num/2, steps + 1);
 };
