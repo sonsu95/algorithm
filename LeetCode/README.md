@@ -26,6 +26,7 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
