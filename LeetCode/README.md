@@ -21,11 +21,13 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Simulation
 |  |
