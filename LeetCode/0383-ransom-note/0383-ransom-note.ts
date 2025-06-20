@@ -1,10 +1,15 @@
 function canConstruct(ransomNote: string, magazine: string): boolean {
-    for (const char of magazine) {
-        if (ransomNote.includes(char)) {
-            ransomNote = ransomNote.replace(char, '');
-        }
-    }
-    console.log('ransomNote', ransomNote);
+    const charCountMap = new Map<string, number>();
 
-    return !ransomNote
+    for (const char of magazine) {
+        charCountMap.set(char, (charCountMap.get(char) || 0) + 1);
+    }
+
+    for (const char of ransomNote) {
+        const count = charCountMap.get(char) || 0;
+        if (!count) return false;
+        charCountMap.set(char, count - 1);
+    }
+
+    return true;
 };
