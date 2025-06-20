@@ -26,6 +26,7 @@ A collection of LeetCode problems solved in this folder.
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
@@ -41,4 +42,12 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
 <!---LeetCode Topics End-->
