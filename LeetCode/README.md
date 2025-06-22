@@ -7,6 +7,7 @@ A collection of LeetCode problems solved in this folder.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -42,6 +43,7 @@ A collection of LeetCode problems solved in this folder.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Hash Table
