@@ -32,6 +32,7 @@ A collection of LeetCode problems solved in this folder.
 | [0412-fizz-buzz](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/sonsu95/algorithm/tree/master/LeetCode/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
