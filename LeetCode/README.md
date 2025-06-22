@@ -41,6 +41,7 @@ A collection of LeetCode problems solved in this folder.
 ## Two Pointers
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode problems solved in this folder.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
