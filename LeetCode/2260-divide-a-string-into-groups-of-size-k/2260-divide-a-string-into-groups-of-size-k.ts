@@ -1,16 +1,14 @@
 function divideString(s: string, k: number, fill: string): string[] {
-    const result = [];
-    const iterationCnt = Math.ceil(s.length / k);
-    
-    for (let i = 0; i < iterationCnt; i++) {
-        let sliceStr = s.slice(k * i, k * (i + 1)) 
+    const result: string[] = [];
 
-        if (sliceStr.length < k) {
-            const repeatCnt = k - sliceStr.length;
-            sliceStr += fill.repeat(repeatCnt);
+    for (let i = 0; i < s.length; i += k) {
+        let group = s.substring(i, i + k);
+
+        if (group.length < k) {
+            group += fill.repeat(k - group.length);
         }
 
-        result.push(sliceStr);
+        result.push(group);
     }
 
     return result;
