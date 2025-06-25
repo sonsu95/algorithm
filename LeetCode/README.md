@@ -71,17 +71,21 @@ A collection of LeetCode problems solved in this folder.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/sonsu95/algorithm/tree/master/LeetCode/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
